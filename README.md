@@ -1,6 +1,6 @@
 # Customer Churn Prediction and Analysis
 
-This project focuses on analyzing and predicting customer churn for a bank, using a dataset containing customer demographics, account information, and transactional details. The primary goal is to uncover actionable insights to reduce churn and build predictive models that can identify high-risk customers.
+Summary: Analyzing and predicting customer churn for a bank, using a dataset containing customer demographics, account information, and transactional details. The primary goal is to uncover actionable insights to reduce churn and build predictive models that can identify high-risk customers.
 
 ---
 
